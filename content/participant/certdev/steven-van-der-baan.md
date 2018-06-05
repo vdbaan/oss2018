@@ -16,7 +16,17 @@ night_day       : Tue, Wed, Thu
 eventbrite_id   :
 pre-summit      :
 status          : add details
-sessions        :
+sessions        : 
+- OWASP Defect Dojo
+- Application Security Verification Standard
+- Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+- Owasp Cloud Security Workshop (BETA)
+- Create Owasp AWS Security Questions
+- Owasp Testing Guide v5
+- SAMMv2 Establish the Document Model
+- Zap - How to use it
+- Reboot Owasp Books Project
+- Hands on Avatao path on Owasp Top 10
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
